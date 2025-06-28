@@ -1,6 +1,8 @@
 # Portfolio-V-3
 
-![Alt](https://repobeats.axiom.co/api/embed/a0c296bb29153fdb423cc94dd90de57a60b4a811.svg "Repobeats analytics image")
+<div align="center">
+  <img src="https://repobeats.axiom.co/api/embed/a0c296bb29153fdb423cc94dd90de57a60b4a811.svg" alt="Repobeats analytics image"/>
+</div>
 
 ---
 
