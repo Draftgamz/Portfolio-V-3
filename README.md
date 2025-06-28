@@ -2,22 +2,26 @@
 
 <div align="center">
   <img src="https://repobeats.axiom.co/api/embed/a0c296bb29153fdb423cc94dd90de57a60b4a811.svg" alt="Repobeats analytics image"/>
+  <h3>Modern Developer Portfolio</h3>
+  <p>Showcase your skills, projects, and personality with style.</p>
 </div>
 
 ---
 
-A modern, visually stunning, and fully responsive developer portfolio built with **React**, **TypeScript**, **Vite**, **GSAP**, and **Tailwind CSS**.
+A modern, visually stunning, and fully responsive developer portfolio built with <b>React</b>, <b>TypeScript</b>, <b>Vite</b>, <b>GSAP</b>, and <b>Tailwind CSS</b>.
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Beautiful Animations:** Smooth transitions and interactive UI powered by Framer Motion and GSAP.
-- 🧩 **Custom Components:** Modular, reusable components for layout, sections, and UI elements.
-- 📱 **Responsive Design:** Looks great on all devices, from mobile to desktop.
-- 🌙 **Dark Mode Ready:** Easily customizable for light/dark themes.
-- 🪐 **Particle & Beams Effects:** Eye-catching backgrounds and effects for a unique look.
-- ⚡ **Easy Customization:** Update your content and styles with minimal effort.
+- 🎨 <b>Beautiful Animations:</b> Smooth transitions and interactive UI powered by Framer Motion and GSAP.
+- 🧩 <b>Custom Components:</b> Modular, reusable components for layout, sections, and UI elements.
+- 📱 <b>Responsive Design:</b> Looks great on all devices, from mobile to desktop.
+- 🌙 <b>Dark Mode Ready:</b> Easily customizable for light/dark themes.
+- 🪐 <b>Particle & Beams Effects:</b> Eye-catching backgrounds and effects for a unique look.
+- ⚡ <b>Easy Customization:</b> Update your content and styles with minimal effort.
+- 🛠️ <b>TypeScript Strictness:</b> Strong typing for maintainable, scalable code.
+- 🧑‍💻 <b>Open Source:</b> Fork, star, and contribute!
 
 ---
 
@@ -103,12 +107,27 @@ src/
 - Add or modify components in `src/components/`
 - Update global styles in `src/index.css`
 - Add new sections or features as needed
+- Swap out icons or backgrounds for your own style
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/portfolio-screenshot.png" alt="Portfolio Screenshot" width="80%"/>
+</p>
 
 ---
 
 ## 🙌 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to [open an issue](https://github.com/your-username/Portfolio-V-3/issues) or submit a pull request.
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
 
 ---
 
