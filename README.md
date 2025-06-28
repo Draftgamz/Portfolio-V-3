@@ -1,6 +1,8 @@
 # Portfolio-V-3
 
 <div align="center">
+  <img src="screenshots/logo.png" alt="Project Logo" width="120"/>
+  <br/>
   <img src="https://repobeats.axiom.co/api/embed/a0c296bb29153fdb423cc94dd90de57a60b4a811.svg" alt="Repobeats analytics image"/>
   <h3>Modern Developer Portfolio</h3>
   <p>Showcase your skills, projects, and personality with style.</p>
