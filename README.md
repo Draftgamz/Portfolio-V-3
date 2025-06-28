@@ -114,7 +114,17 @@ src/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/portfolio-screenshot.png" alt="Portfolio Screenshot" width="80%"/>
+  <img src="screenshots/hero-section.png" alt="Hero section screenshot" width="80%"/>
+  <br/>
+  <img src="screenshots/about-section.png" alt="About section screenshot" width="80%"/>
+  <br/>
+  <img src="screenshots/skills-section.png" alt="Skills section screenshot" width="80%"/>
+  <br/>
+  <img src="screenshots/projects-section.png" alt="Projects section screenshot" width="80%"/>
+  <br/>
+  <img src="screenshots/contact-section.png" alt="Contact section screenshot" width="80%"/>
+  <br/>
+  <img src="screenshots/footer-section.png" alt="Footer section screenshot" width="80%"/>
 </p>
 
 ---
